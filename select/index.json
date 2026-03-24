@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Chicago",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2026-03-24T13:22:08.447473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chicago Freestyle (feat. Giveon)",
+      "artist": "Drake feat. Giveon",
+      "has_synced": true,
+      "path": "select/01_Chicago_Freestyle_(feat._Giveon)_Drake_feat._Giveon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chicago Freestyle (feat. Giveon)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/02_Chicago_Freestyle_(feat._Giveon)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chicago, Detroit, L.A.",
+      "artist": "Zoot Woman",
+      "has_synced": false,
+      "path": "select/03_Chicago,_Detroit,_L.A._Zoot_Woman.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Flower (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/04_Blue_Flower_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blue Flower (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/05_Blue_Flower_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fade Into You (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/06_Fade_Into_You_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fade Into You (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/07_Fade_Into_You_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flowers In December (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/08_Flowers_In_December_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flowers in December (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/09_Flowers_in_December_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ghost Highway (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/10_Ghost_Highway_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ghost Highway (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/11_Ghost_Highway_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "give You My Lovin' (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/12_give_You_My_Lovin'_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give You My Lovin' (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/13_Give_You_My_Lovin'_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Halah (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/14_Halah_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Halah (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/15_Halah_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Into Dust (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/16_Into_Dust_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Into Dust (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/17_Into_Dust_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ride It On (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/18_Ride_It_On_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ride It On (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/19_Ride_It_On_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sweet Home Chicago",
+      "artist": "Magic Sam",
+      "has_synced": true,
+      "path": "select/20_Sweet_Home_Chicago_Magic_Sam.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chicago",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_01_Chicago_マイケル・ジャクソン.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Chicago",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_02_Chicago_マイケル・ジャクソン.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Chicago",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_03_Chicago_マイケル・ジャクソン.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Chicago",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_04_Chicago_マイケル・ジャクソン.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Chicago (Original Ver.)",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_05_Chicago_(Original_Ver.)_マイケル・ジャクソン.txt"
+    }
+  ]
+}
